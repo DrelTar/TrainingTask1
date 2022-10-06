@@ -1,0 +1,13 @@
+Number of containers in warehouse: 3
+Container number 1. Total price: 34. Total weight: 88
+Box number 1. Price: 19. Weight: 45
+Box number 2. Price: 10. Weight: 34
+Box number 3. Price: 5. Weight: 9
+Container number 2. Total price: 25. Total weight: 47
+Box number 1. Price: 14. Weight: 29
+Box number 2. Price: 8. Weight: 7
+Box number 3. Price: 3. Weight: 11
+Container number 3. Total price: 90. Total weight: 27
+Box number 1. Price: 35. Weight: 3
+Box number 2. Price: 10. Weight: 21
+Box number 3. Price: 45. Weight: 3
